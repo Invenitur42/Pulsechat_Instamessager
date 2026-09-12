@@ -43,7 +43,7 @@ Voice and video recording use `navigator.mediaDevices.getUserMedia`, which brows
 
 This is a stateful app with a database and WebSocket connections, so it can't be hosted as a static GitHub Pages site the way a plain HTML/CSS/JS project can. To put a real, working link in this README:
 
-**Demo:** https://pulsechat-instamessager.onrender.com/ 
+**Demo:** pulsechatinstamessager-production.up.railway.app
 
 ## Project structure
 
