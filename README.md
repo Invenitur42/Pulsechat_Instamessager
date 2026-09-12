@@ -43,9 +43,7 @@ Voice and video recording use `navigator.mediaDevices.getUserMedia`, which brows
 
 This is a stateful app with a database and WebSocket connections, so it can't be hosted as a static GitHub Pages site the way a plain HTML/CSS/JS project can. To put a real, working link in this README:
 
-1. Deploy it to a Node-friendly free host such as [Render](https://render.com) or [Railway](https://railway.app) — both auto-detect `npm start` and give you a public URL in a few minutes.
-
-**Demo:** https://invenitur42.github.io/Pulsechat_Instamessager/ 
+**Demo:** https://pulsechat-instamessager.onrender.com/ 
 
 ## Project structure
 
