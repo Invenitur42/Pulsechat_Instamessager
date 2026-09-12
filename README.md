@@ -64,7 +64,7 @@ pulsechat/
     └── img/default-avatar.svg
 ```
 
-## Known limitations (good "next steps" to mention in an interview)
+## Known limitations (next steps)
 
 - Sessions are stored in memory, so restarting the server logs everyone out. Swapping in `connect-sqlite3` or Redis for session storage would fix that.
 - No message editing/deletion yet.
